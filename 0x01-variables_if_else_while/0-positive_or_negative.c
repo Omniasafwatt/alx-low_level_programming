@@ -5,9 +5,9 @@
 /**
  * main - entry point
  *
- * Description: prints a random number whether is positive or negative or zero
+ * Description:true or false validation 
  *
- * return : 0 (success)
+ * return: always 0 (success)
 */
 
 int main(void)
