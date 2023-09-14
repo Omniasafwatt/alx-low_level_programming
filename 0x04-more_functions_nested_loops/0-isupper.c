@@ -10,11 +10,8 @@
 
 int _isupper(int c)
 {
-	char c;
-
 	if (c >= 65 && c <= 90)
 	{
-		printf("%c:is upper\n", c);
 		return (1);
 	}
 	else
