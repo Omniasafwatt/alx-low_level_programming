@@ -3,8 +3,8 @@
 /**
  * swap_int - takes pointer then swap them
  *
- * @n: int patameter
- * @b: int parameter
+ * @a: int patameter 1
+ * @b: int parameter 2
  *
  * Return: nothing
 */
