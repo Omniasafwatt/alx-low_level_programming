@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * reset_to_98 - takes pointer
+ * swap_int - takes pointer then swap them
  *
  * @n: int patameter
  * @b: int parameter
