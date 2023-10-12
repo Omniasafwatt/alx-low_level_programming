@@ -1,4 +1,4 @@
-#include "main.h"
+#include "variadic_functions.h"
 /**
  * print_strings - function that print numbers
  * @n: first value
