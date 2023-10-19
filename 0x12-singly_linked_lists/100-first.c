@@ -1,7 +1,6 @@
-#icnlude "lists.h"
+#include "lists.h"
 
-void _constructor(void) __attribute__ ((constructor));
-
+void _constructot(void) __attribute__ ((constructor));
 /**
  * _constructor - executes before main()
  *
